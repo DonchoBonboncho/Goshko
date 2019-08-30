@@ -1,5 +1,5 @@
 #include <iostream>
-using naemspace std;
+using namespace std;
 
 
 
@@ -8,6 +8,7 @@ int main () {
     cin>>a>>b;
 
     cout<<"Hello World"<<endl;
+    cout<<"test"<<endl;
 
     return 0;
 }
